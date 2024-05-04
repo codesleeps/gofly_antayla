@@ -1,5 +1,4 @@
 # Logs
-.DS_Store
 logs
 *.log
 npm-debug.log*
@@ -129,3 +128,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.DS_Store
