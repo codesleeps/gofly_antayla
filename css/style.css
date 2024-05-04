@@ -880,7 +880,7 @@ input.mail_text::placeholder {
     color: #cfcfcf;
 }
 
-.massage-bt {
+.message-bt {
     color: #cfcfcf;
     width: 100%;
     height: 110px;
@@ -892,7 +892,7 @@ input.mail_text::placeholder {
     margin-top: 40px;
 }
 
-textarea#comment.massage-bt::placeholder {
+textarea#comment.message-bt::placeholder {
     color: #cfcfcf;
 }
 
