@@ -126,3 +126,8 @@ Cleopatra Beach: A beautiful beach near the Alanya Castle, known for its sandy a
                               local festivals, markets, and social gatherings. These events often feature traditional music, dance, and crafts.
                               Natural Beauty: Turkish villages are often surrounded by stunning natural beauty, with rolling hills, mountains, and
                               coastlines. Visitors can enjoy hiking, swimming, or simply taking in the breathtaking views.
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
